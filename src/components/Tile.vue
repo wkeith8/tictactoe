@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'tile',
+  name: 'Board',
   data: {
     return: {
       playerImage: '',

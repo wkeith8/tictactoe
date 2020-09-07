@@ -3,11 +3,11 @@
 </template>
 
 <script>
-  import tile from '../src/components/Tile.vue';
+  import Tile from '../src/components/Tile.vue';
 
   export default {
     components: {
-      tile
+      Tile
     }
   }
 </script>
