@@ -2,6 +2,16 @@
   <img src="../src/resources/red_x.png" class="board"/>
 </template>
 
+<script>
+  import tile from '../src/components/Tile.vue';
+
+  export default {
+    components: {
+      tile
+    }
+  }
+</script>
+
 <style scoped>
   .board {
     position: absolute;
