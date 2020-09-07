@@ -1,1 +1,8 @@
-This is the read me
+**SET UP**
+
+1. Clone project
+2. Install node npm (if not installed already)
+2. Install yarn (if not installed already) 'npm install -g yarn'
+4. Install nuxt 'npm install -g nuxt'
+5. Run 'yarn build' to get node modules dependencies
+6. Run 'yarn dev' to serve application locally, watch terminal output for target local address (default: http://localhost:3000/)
