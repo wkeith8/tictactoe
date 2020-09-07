@@ -3,14 +3,12 @@
     "name": "tictactoe",
     "path": "/tictactoe",
     "component": "C:\\\\Users\\\\Keith\\\\dev\\\\tictactoe\\\\pages\\\\tictactoe.vue",
-    "chunkName": "pages/tictactoe",
-    "_name": "_568ad66b"
+    "chunkName": "pages/tictactoe"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Keith\\\\dev\\\\tictactoe\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_e248908a"
+    "chunkName": "pages/index"
   }
 ]
