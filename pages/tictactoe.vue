@@ -1,13 +1,13 @@
 <template>
-  <img src="../src/resources/red_x.png" class="board"/>
+  <Square/>
 </template>
 
 <script>
-  import Tile from '../src/components/Tile.vue';
+  import Square from '../src/components/Square.vue';
 
   export default {
     components: {
-      Tile
+      Square
     }
   }
 </script>
